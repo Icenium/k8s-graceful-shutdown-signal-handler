@@ -1,0 +1,21 @@
+{
+  "name": "k8s-graceful-shutdown-signal-handler",
+  "types": "./typings/interfaces.d.ts",
+  "version": "0.1.0",
+  "description": "Package for managing graceful shutdown in a k8s cluster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Icenium/k8s-graceful-shutdown-signal-handler.git"
+  },
+  "keywords": [],
+  "author": "Progress Software Corporation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Icenium/k8s-graceful-shutdown-signal-handler/issues"
+  },
+  "homepage": "https://github.com/Icenium/k8s-graceful-shutdown-signal-handler#readme"
+}
